@@ -2,4 +2,5 @@
 Test repo
 
 Just a test repository.
-Test change from Visual Studio
+Test change from Visual Studio.
+
